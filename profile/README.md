@@ -1,12 +1,10 @@
-We will add info about our project here :)
+## Project Summary
 
-<!--
+Community engagement in planning is essential for effective and just climate adaptation. Unfortunately, traditional forms of soliciting public input often do not generate productive community engagement in historically underserved communities, and establishing trust through new community organizations can take years (Few et al. 2007; Klenk et al. 2017). The Climate Adaptation Solutions Accelerator (CASA) through School-Community Hubs project identifies the 10,000 public schools serving kindergarten through Grade 12 students in California as promising sites for building community engagement and capacity for climate adaptation.To serve as community hubs for climate adaptation planning and activities, schools need information about the intersecting threats that climate change poses, including wildfire, heat, flooding, and other hazards.
+In the project, MEDS students will generate three deliverables:
 
-**Here are some ideas to get you started:**
+A catalog of the technical specifications of relevant California climate hazard data, as well as California school, school district, and socio-demographic boundary layers.
+A review of approaches for compounding climate hazard data
+An interactive web application summarizing local climate hazards for the three identified pilot schools to be used in curriculum development and school-community climate adaptation capacity-building events.
+The interactive web application will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub,  in collaboration with three public schools and three climate adaptation innovators.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
