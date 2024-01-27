@@ -9,7 +9,7 @@ An interactive web application summarizing local climate hazards for the three i
 The interactive web application will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub,  in collaboration with three public schools and three climate adaptation innovators.
 
 
-##### References 
+### References 
 Few, Roger, Katrina Brown, and Emma L Tompkins. 2007. Public participation and climate		 change adaptation: avoiding the illusion of inclusion. Climate Policy 7 (1):46-59. 
 
 Klenk, Nicole, Anna Fiume, Katie Meehan, and Cerian Gibbes. 2017. Local knowledge in climate adaptation research: moving knowledge frameworks from extraction to co‐production. Wiley Interdisciplinary Reviews: Climate Change 8 (5):e475. 
