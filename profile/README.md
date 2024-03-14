@@ -13,12 +13,18 @@ Students: [Liane Chen](https://github.com/lchenhub), [Charlie Curtin](https://gi
 ## Project Summary
 
 Community engagement in planning is essential for effective and just climate adaptation. Unfortunately, traditional forms of soliciting public input often do not generate productive community engagement in historically underserved communities, and establishing trust through new community organizations can take years (Few et al. 2007; Klenk et al. 2017). The Climate Adaptation Solutions Accelerator (CASA) through School-Community Hubs project identifies the 10,000 public schools serving kindergarten through Grade 12 students in California as promising sites for building community engagement and capacity for climate adaptation. To serve as community hubs for climate adaptation planning and activities, schools need information about the intersecting threats that climate change poses, including wildfire, heat, flooding, and other hazards.
-In the project, MEDS students will generate three deliverables:
+In the project, MEDS students will generate one final and three intermediate deliverables: :
 
-- A catalog of the technical specifications of relevant California climate hazard data, as well as California school, school district, and socio-demographic boundary layers.
-- A review of approaches for compounding climate hazard data
-- An interactive dashboard summarizing local climate hazards for the three identified pilot schools to be used in curriculum development and school-community climate adaptation capacity-building events.
-  
+Final Deliverable: 
+
+- An interactive dashboard summarizing local climate hazards, including both historical data and future projections at school district levels. 
+
+Intermediate Deliverables:
+
+- A catalog of the technical specifications of relevant California climate hazard data, as well as California school, school district, and socio-demographic boundary layers
+- A summary literature review of approaches for compounding climate hazard data
+- Development of an aggregated hazard risk and visual representation of compounding climate hazards and social vulnerability at the school district level.
+
 The interactive dashboard will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub,  in collaboration with three public schools and three climate adaptation innovators.
 
 
