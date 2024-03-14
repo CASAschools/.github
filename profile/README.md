@@ -3,7 +3,9 @@
 The CASAschools Github Organization was created to host code to be submitted with partial satisfaction of the [Master of Environmental Data Science (MEDS)](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) Capstone Degree requirements for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/)
 
 CASAschools team consists of: 
+
 Faculty Advisor: Dr. Simone Pulver
+
 Client: Dr. Sarah Anderson & Dr. Danielle Harlow
 
 Students: [Liane Chen](https://github.com/lchenhub), [Charlie Curtin](https://github.com/charliecurtin1), [Kristina Glass](https://github.com/kristinaglass), and [Hazel Vaquero](https://github.com/hazelvaq).
