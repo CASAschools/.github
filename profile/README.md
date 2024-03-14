@@ -18,3 +18,9 @@ The interactive web application will be used by teachers, faculty, students, and
 Few, Roger, Katrina Brown, and Emma L Tompkins. 2007. Public participation and climate change adaptation: avoiding the illusion of inclusion. Climate Policy 7 (1):46-59. 
 
 Klenk, Nicole, Anna Fiume, Katie Meehan, and Cerian Gibbes. 2017. Local knowledge in climate adaptation research: moving knowledge frameworks from extraction to co‐production. Wiley Interdisciplinary Reviews: Climate Change 8 (5):e475. 
+
+
+## Acknowledgments
+We would like to thank [Sam Csik](https://github.com/samanthacsik) for teaching the *Shiny Dashboard* workshop and providing a foundation to build our dashboard.
+We would also like to thank the Western Wildfire Resiliency Index, the Southern California Public Health Alliance, Cal-Adapt, CalMatters, and the Ventura County Public Health Department for their feedback and providing us with data as we developed our products
+## Licence
