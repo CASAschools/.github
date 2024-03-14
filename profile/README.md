@@ -38,7 +38,7 @@ Klenk, Nicole, Anna Fiume, Katie Meehan, and Cerian Gibbes. 2017. Local knowledg
 
 ## Acknowledgments
 We would like to thank [Sam Csik](https://github.com/samanthacsik) for teaching the *Shiny Dashboard* workshop and providing a foundation to build our dashboard.
-We would also like to thank the Western Wildfire Resiliency Index, the Southern California Public Health Alliance, Cal-Adapt, CalMatters, and the Ventura County Public Health Department for their feedback and providing us with data as we developed our products. As well as the Capstone Commitee team including [Dr. Carmen Galaz García](https://github.com/carmengg) and the MEDS team.
+We would also like to thank the Western Wildfire Resiliency Index, the Southern California Public Health Alliance, Cal-Adapt, [CalMatters](https://github.com/CalMatters), and the Ventura County Public Health Department for their feedback and providing us with data as we developed our products. As well as the Capstone Commitee team including [Dr. Carmen Galaz García](https://github.com/carmengg) and the MEDS team.
 
 ## Licence
 This work is licensed under a [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en). 
