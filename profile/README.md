@@ -28,8 +28,7 @@ Intermediate Deliverables:
 - A summary literature review of approaches for compounding climate hazard data
 - Development of an aggregated hazard risk and visual representation of compounding climate hazards and social vulnerability at the school district level.
 
-The interactive dashboard will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub,  in collaboration with three public schools and three climate adaptation innovators.
-
+The interactive dashboard will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub.
 
 ### References 
 Few, Roger, Katrina Brown, and Emma L Tompkins. 2007. Public participation and climate change adaptation: avoiding the illusion of inclusion. Climate Policy 7 (1):46-59. 
