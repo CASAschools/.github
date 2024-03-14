@@ -16,7 +16,7 @@ Students: [Liane Chen](https://github.com/lchenhub), [Charlie Curtin](https://gi
 ## Project Summary
 
 Community engagement in planning is essential for effective and just climate adaptation. Unfortunately, traditional forms of soliciting public input often do not generate productive community engagement in historically underserved communities, and establishing trust through new community organizations can take years (Few et al. 2007; Klenk et al. 2017). The Climate Adaptation Solutions Accelerator (CASA) through School-Community Hubs project identifies the 10,000 public schools serving kindergarten through Grade 12 students in California as promising sites for building community engagement and capacity for climate adaptation. To serve as community hubs for climate adaptation planning and activities, schools need information about the intersecting threats that climate change poses, including wildfire, heat, flooding, and other hazards.
-In the project, MEDS students will generate one final and three intermediate deliverables: :
+In the project, MEDS students will generate one final and three intermediate deliverables:
 
 Final Deliverable: 
 
