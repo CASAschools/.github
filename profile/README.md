@@ -1,3 +1,6 @@
+![CASAschools4](https://github.com/CASAschools/.github/assets/108312152/7a8cf35c-96fb-4037-bd3c-ff8ddb67991b)
+
+
 # Climate Hazards Data Integration and Visualization for the Climate Adaptation Solutions Accelerator (CASA) through School-Community Hubs
 
 The CASAschools Github Organization was created to host code to be submitted with partial satisfaction of the [Master of Environmental Data Science (MEDS)](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) Capstone Degree requirements for the [Bren School of Environmental Science & Management, University of California, Santa Barbara](https://bren.ucsb.edu/)
