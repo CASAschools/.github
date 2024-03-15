@@ -9,7 +9,7 @@ CASAschools team consists of:
 
 Faculty Advisor: Dr. Simone Pulver
 
-Client: Dr. Sarah Anderson & Dr. Danielle Harlow
+Clients: Dr. Sarah Anderson & Dr. Danielle Harlow
 
 Students: [Liane Chen](https://github.com/lchenhub), [Charlie Curtin](https://github.com/charliecurtin1), [Kristina Glass](https://github.com/kristinaglass), and [Hazel Vaquero](https://github.com/hazelvaq).
 
