@@ -30,6 +30,15 @@ Intermediate Deliverables:
 
 The interactive dashboard will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub.
 
+#### Usage
+
+This organization is split into three repositories:
+
+1. [Climate Hazards](https://github.com/CASAschools/climate_hazards): Detailed composition on the data prepping and analysis of the climate hazards identifies as interest.
+2. [Interactive Dashboard](https://github.com/CASAschools/shiny_dashboard): Code for development and deployment of Shiny Dashboard
+3. [Aggregated Hazards Risk](https://github.com/CASAschools/aggregated_hazard_risk): Development of an aggregated hazards risk using the 5 climate hazards and assigning risk scores to California school districts
+
+
 ### References 
 Few, Roger, Katrina Brown, and Emma L Tompkins. 2007. Public participation and climate change adaptation: avoiding the illusion of inclusion. Climate Policy 7 (1):46-59. 
 
