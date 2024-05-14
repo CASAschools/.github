@@ -20,23 +20,22 @@ In the project, MEDS students will generate one final and three intermediate del
 
 Final Deliverable: 
 
-- An interactive dashboard summarizing local climate hazards, including both historical data and future projections at school district levels. 
+- An interactive dashboard summarizing five local climate hazards (Extreme Heat, Wildfire, Precipitation, Flooding, and Sea Level Rise) including both historical data and future projections at school district levels. 
 
 Intermediate Deliverables:
 
-- A catalog of the technical specifications of relevant California climate hazard data, as well as California school, school district, and socio-demographic boundary layers
+- A catalog of the technical specifications of relevant California climate hazard data, as well as California school boundary layers
 - A summary literature review of approaches for compounding climate hazard data
-- Development of an aggregated hazard risk and visual representation of compounding climate hazards and social vulnerability at the school district level.
+- Development of a hazard summary metric and visual representation of compounding climate hazards at the school district level.
 
-The interactive dashboard will be used by teachers, faculty, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub.
+The interactive dashboard will be used by teachers, administrators, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub.
 
 #### Usage
 
-This organization is split into three repositories:
+This organization is split into two repositories:
 
-1. [Climate Hazards](https://github.com/CASAschools/climate_hazards): Detailed composition on the data prepping and analysis of the climate hazards identifies as interest.
+1. [Climate Hazards](https://github.com/CASAschools/climate_hazards): Detailed composition on the data prepping and analysis of the climate hazards and hazard summary metric.
 2. [Interactive Dashboard](https://github.com/CASAschools/shiny_dashboard): Code for development and deployment of Shiny Dashboard
-3. [Aggregated Hazards Risk](https://github.com/CASAschools/aggregated_hazard_risk): Development of an aggregated hazards risk using the 5 climate hazards and assigning risk scores to California school districts
 
 
 ### References 
