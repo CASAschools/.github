@@ -20,7 +20,7 @@ In the project, MEDS students will generate one final and three intermediate del
 
 Final Deliverable: 
 
-- An interactive dashboard summarizing five local climate hazards (Extreme Heat, Wildfire, Precipitation, Flooding, and Sea Level Rise) including both historical data and future projections at school district levels. 
+- An interactive dashboard summarizing local climate hazards, including both historical data and future projections. Moreover, in addition to geospatial and temporal data on single climate hazards, the web application will visualize aggregate climate hazards for each school. A user guide will be included, and additional information on adaptation measures may be included as a secondary reach goal. 
 
 Intermediate Deliverables:
 
