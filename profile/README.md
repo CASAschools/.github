@@ -1,5 +1,4 @@
-![CASAschools4](https://github.com/CASAschools/.github/assets/108312152/7a8cf35c-96fb-4037-bd3c-ff8ddb67991b)
-
+![CASAschools8(1)](https://github.com/CASAschools/.github/assets/108312152/68e6b2ba-c5b7-4b96-831c-2224ddfa057f)
 
 # Climate Hazards Data Integration and Visualization for the Climate Adaptation Solutions Accelerator (CASA) through School-Community Hubs
 
