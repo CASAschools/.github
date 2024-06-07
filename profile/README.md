@@ -21,12 +21,11 @@ In the project, MEDS students generated one final and three intermediate deliver
 
 Final Deliverable: 
 
-- An interactive dashboard summarizing local climate hazards, including both historical data and future projections. Moreover, in addition to geospatial and temporal data on single climate hazards, the web application will visualize aggregate climate hazards for each school. A user guide will be included, and additional information on adaptation measures may be included as a secondary reach goal. 
+- An interactive dashboard summarizing five climate hazards, including extreme heat, wildfire, extreme precipitation, flooding, and sea level rise at the school-community level. The dashboard provides locally specific historical data and future projections for each hazard. In addition, the dashboard provides a hazard summary score for each school. A user guide and information on adaptation measures are also provided.
 
 Intermediate Deliverables:
 
-- A catalog of the technical specifications of relevant California climate hazard data, as well as California school boundary layers
-- A summary literature review of approaches for compounding climate hazard data
+- A catalog of the technical specifications of relevant California climate hazard data, all California school locations, and a school district boundary layer.
 - Development of a hazard summary metric and visual representation of compounding climate hazards at the school district level.
 
 The interactive dashboard will be used by teachers, administrators, students, and community members to learn about climate hazards their school districts face. Results of the proposed project will contribute to a pilot project funded by the National Science Foundation (NSF), CRISES: Climate Adaptation Solutions Accelerator (CASA) through School-Community Hub.
