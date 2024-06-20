@@ -6,6 +6,8 @@ The CASAschools Github Organization was created to host code to be submitted wit
 
 To view the project proposal and detailed technical documentation, please visit https://bren.ucsb.edu/projects/climate-hazards-data-integration-and-visualization-climate-adaptation-solutions
 
+To view the California Schools Climate Hazards Dashboard, please visit https://shinyapps.bren.ucsb.edu/CASASchools/
+
 The CASAschools team consists of: 
 
 MEDS students: [Liane Chen](https://github.com/lchenhub), [Charlie Curtin](https://github.com/charliecurtin1), [Kristina Glass](https://github.com/kristinaglass), and [Hazel Vaquero](https://github.com/hazelvaq)
